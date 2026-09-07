@@ -1,7 +1,7 @@
 async function scrapeJobIdsAndSendToSheet() {
   // ⚠️ นำ Web App URL ที่ได้จาก Apps Script มาวางตรงนี้ในเครื่องหมายคำพูด
   const WEB_APP_URL =
-    "https://script.google.com/macros/s/AKfycbwyn-N2e7qG2zV_xSTCv_qSuqrxVUm5toTkQ8JCpZYt75vQCuR-f9xTAP-g1G1XS6LE/exec";
+    "เอาลิงก์จาก app script มาแทนนะจ๊ะ";
 
   let allJobIds = new Set();
   let page = 1;
