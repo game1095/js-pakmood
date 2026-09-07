@@ -32,7 +32,7 @@
   // 📍 ส่วนที่ 1: ดึงเลขงานจาก Google Sheet แบบอัตโนมัติ
   // =========================================================================
   const sheetUrl =
-    "https://docs.google.com/spreadsheets/d/1fcnuD76SzB6NXDtZZsTtZpBiUtii9P93zhGgrsdgzLs/export?format=csv&gid=0";
+    "เอาลิงก์ google sheet มาแทนนะจ๊ะ คัดลอกมาจาก address bar ";
   let jobNumbers = [];
 
   try {
