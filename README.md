@@ -45,6 +45,8 @@
 
 **ขั้นตอนที่ 12:** เตรียมไฟล์ `2-data-approve.js` โดยนำ **ลิงก์ของ Google Sheet** (จากขั้นตอนที่ 1-2) มาวางในส่วนนี้
 <br><img width="1211" height="482" alt="image" src="https://github.com/user-attachments/assets/a7c5d6ae-7172-43b3-bdc9-ebdd525d57c0" />
+<br><img width="1002" height="424" alt="image" src="https://github.com/user-attachments/assets/a2bd152a-2033-4714-ba06-0e9b27c12277" />
+
 
 **ขั้นตอนที่ 13:** กดปุ่ม `F12` เลือกแท็บ **Console** นำสคริปต์จากข้อ 12 มาวางแล้วกด `Enter` *(ระบบจะดำเนินการอนุมัติหมายเลขงานที่ดึงมาโดยอัตโนมัติ)*
 
