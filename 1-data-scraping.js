@@ -1,7 +1,7 @@
 async function scrapeJobIdsAndSendToSheet() {
   // ⚠️ นำ Web App URL ที่ได้จาก Apps Script มาวางตรงนี้ในเครื่องหมายคำพูด
   const WEB_APP_URL =
-    "เอาลิงก์จาก app script มาแทนนะจ๊ะ";
+    'เอาลิงก์จาก app script มาแทนนะจ๊ะ';
 
   let allJobIds = new Set();
   let page = 1;
